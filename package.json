@@ -1,0 +1,10 @@
+{
+  "name": "Project-Personal-Web-Application-ExpressJS-Example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/christopher-howard/Project-Personal-Web-Application-ExpressJS-Example.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
